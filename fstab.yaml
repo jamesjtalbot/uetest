@@ -1,4 +1,4 @@
-https://github.com/jamesjtalbot/uetest/projectsmountpoints:
+mountpoints:
   /:
     url: "https://author-p62155-e1344783.adobeaemcloud.com/bin/franklin.delivery/jamesjtalbot/uetest/main"
     type: "markup"

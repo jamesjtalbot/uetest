@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/uetest/:/",
-    "/content/uetest/configuration:/.helix/config.json"
+    "/content/uetest/:/"
   ]
 }
